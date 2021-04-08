@@ -1,1 +1,1 @@
-Sitemap: https://lelarson.github.io/fastblog/sitemap.xml
+Sitemap: https://lelarson.github.io/blog/sitemap.xml
